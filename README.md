@@ -21,7 +21,7 @@ Visualización de resultados: Se grafican los datos junto con la clasificación 
 ## Archivos
 
 En esta carpeta se encuentran: 
-- [El código fuente](Archivos/algoritmo_de_repropagacion.py)
+- [El código fuente](Archivos/Algoritmo_de_repropagacion.py)
 - [El archivo de datos](Archivos/concentlite.csv)
 
 ## Reporte
