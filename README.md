@@ -1,9 +1,9 @@
 # Practica 1 Ejercicio 3 - Perceptrón Multicapa
 ## Autor: Cárdenas Pérez Calvin Cristopher
 
-## Descripción del proyecto
+## Descripción de la actividad
 
-Este proyecto consiste en la implementación de un algoritmo de retropropagación para un perceptrón multicapa en Python, que permite la clasificación de datos utilizando una red neuronal artificial. La cantidad de capas de la red y la cantidad de neuronas para cada capa pueden ser configuradas libremente.
+Esta actividad consiste en la implementación de un algoritmo de retropropagación para un perceptrón multicapa en Python, que permite la clasificación de datos utilizando una red neuronal artificial. La cantidad de capas de la red y la cantidad de neuronas para cada capa pueden ser configuradas libremente.
 
 ## Funcionamiento del programa
 
