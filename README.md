@@ -29,3 +29,5 @@ Contiene un informe detallado sobre la implementación del algoritmo y los resul
 ## Resultados
 
 A continuación se muestra la gráfica que ilustra la clasificación de datos realizada por el perceptrón multicapa:
+
+![Gráfica de los resultados](Grafica.png)
