@@ -1,5 +1,5 @@
 # Practica 1 Ejercicio 3 - Perceptrón Multicapa
-# Autor: Cárdenas Pérez Calvin Cristopher
+## Autor: Cárdenas Pérez Calvin Cristopher
 
 ## Descripción del proyecto
 
