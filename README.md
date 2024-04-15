@@ -27,6 +27,7 @@ En esta carpeta se encuentran:
 ## Reporte
 
 Contiene un informe detallado sobre la implementación del algoritmo y los resultados obtenidos.
+- [Reporte](Reporte.pdf)
 
 ## Resultados
 
